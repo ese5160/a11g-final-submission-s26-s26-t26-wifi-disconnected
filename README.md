@@ -254,3 +254,4 @@ Do *not* commit any of your source code to this repository. Rather, provide link
 
 - A link to your final embedded C firmware codebases: [Github Link to Codebase](https://github.com/ese5160/final-project-firmware-s26-t26-wifi-disconnected.git)
 - A link to your Node-RED dashboard code: [Link to Node Red](http://135.232.181.147:1880/dashboard/page1)
+- A link to you web dashboard: [Link to Web Page](http://135.232.181.147:1880/dashboard/page1)
